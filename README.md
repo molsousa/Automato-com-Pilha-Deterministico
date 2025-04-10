@@ -11,6 +11,6 @@
 - 5ª linha: (qɑ, x, X) = (qβ, Y) -> especificação para transição, onde:
     - qɑ -> estado atual.
     - x -> simbolo lido.
-    - X -> simbolo empilhado.
+    - X -> simbolo desempilhado.
     - qβ -> proximo estado.
-    - Y -> simbolo desempilhado.
+    - Y -> simbolo empilhado.
