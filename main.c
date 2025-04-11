@@ -1,6 +1,6 @@
-#include "header.h"
-#include "carregar_palavra_header.h"
-#include "verificar_palavra_header.h"
+#include "src/header.h"
+#include "src/APD/carregar_palavra_header.h"
+#include "src/APD/verificar_palavra_header.h"
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,4 +1,4 @@
-#include "header.h"
+#include "../header.h"
 #include "carregar_palavra_header.h"
 #include <stdio.h>
 #include <stdlib.h>
