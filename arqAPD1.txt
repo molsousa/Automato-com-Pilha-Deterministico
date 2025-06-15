@@ -1,0 +1,7 @@
+Q=2
+F={q1}
+alfabeto_fita = {a,b}
+alfabeto_pilha = {a}
+(q0,a,@) = (q0,a)
+(q0,b,a) = (q1,@)
+(q1,b,a) = (q1,@)

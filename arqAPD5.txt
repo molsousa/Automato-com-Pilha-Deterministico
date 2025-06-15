@@ -1,0 +1,11 @@
+Q=4
+F={q3}
+alfabeto_fita = {a,b}
+alfabeto_pilha = {a}
+(q0,@,@) = (q1,$)
+(q1,a,@) = (q1,a)
+(q1,b,a) = (q2,@)
+(q1,b,$) = (q3,@)
+(q2,b,a) = (q2,@)
+(q2,b,$) = (q3,@)
+(q3,b,@) = (q3,@)
